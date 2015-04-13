@@ -21,7 +21,7 @@
 #define kPADActivated @"Activated"
 #define kPADContinue @"Continue"
 
-#import <Foundation/Foundation.h>
+#import <Cocoa/Cocoa.h>
 
 @protocol PaddleDelegate <NSObject>
 
